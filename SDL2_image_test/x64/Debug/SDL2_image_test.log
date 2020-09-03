@@ -1,6 +1,6 @@
 ﻿  06_extension_libraries_and_loading_other_image_formats.cpp
-D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(245,25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(245,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(245,32): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(245,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(251,25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(251,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(251,32): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\lazy_foo\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp(251,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   SDL2_image_test.vcxproj -> D:\CODE\SDL2_image_test\SDL2_image_test\x64\Debug\SDL2_image_test.exe
